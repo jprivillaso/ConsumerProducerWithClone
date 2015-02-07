@@ -1,0 +1,39 @@
+DaFuq Coders
+
+  Parsim - Parallel consumer producer in C++
+
+Compilation
+
+Go to the root of the project and type
+
+    make
+
+Use
+
+1. Open bin folder
+2. Execute the archive
+3. Example. We assumme that we are at the bin folder and we are going to place
+4. the answers in an archive placed at src/answers.out. There are two ways of
+   executing parsim
+
+    ./parsim -s 0 10 -s 2 10 -s 3 10 -c 8 -b 9 < ../src/lectura.in >
+    ../src/answers.out
+
+    OR
+
+    ./parsim -s 0 10 -s 2 10 -s 3 10 -c 8 -b 9
+    and after that it will wait for the user. In this case the user has to
+    type message by message
+
+To test the code you can type the following code at the root folder
+parsimpractice
+
+  make test
+
+And finally to clean the folders and binaries created after the make file
+
+  make clean
+
+
+
+

@@ -1,0 +1,16 @@
+<grupo>
+  <nombre>parsim</nombre>
+  <repositorio>https://bitbucket.org/rivillasvelasquez/parsimpractice</repositorio>
+  <miembro>
+    <nombre>Juan Pablo Rivillas Ospina</nombre>
+    <codigo>200910031010</codigo>
+    <grupo>031</grupo>
+    <email>jrivill2@eafit.edu.co</email>
+  </miembro>
+  <miembro>
+    <nombre>Camilo Velasquez Botero</nombre>
+    <codigo></codigo>
+    <grupo>031</grupo>
+    <email>@eafit.edu.co</email>
+  </miembro>
+</grupo>
